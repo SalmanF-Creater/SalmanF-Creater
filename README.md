@@ -3,7 +3,7 @@ Hi 👋 My name is Salman Farooq
 
 *   🌍  I'm based in Ufa
 *   ✉️  You can contact me at [farooqsalman301@gmail.com](mailto:farooqsalman301@gmail.com)
-*   🧠  I'm learning Neural network developer
+*   🧠  I'm learning Neural network, Data science
 *   🤝  I'm open to collaborating on AI
 *   ⚡  i practice OQP<a href="https://www.github.com/SalmanF-Creater" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/SalmanF-Creater?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
